@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://github.com/akkirva/rsschool-cv.git
