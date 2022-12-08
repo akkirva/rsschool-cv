@@ -1,1 +1,2 @@
-# https://github.com/akkirva/rsschool-cv.git
+# https://akkirva.github.io/rsschool-cv/cv
+# https://akkirva.github.io/rsschool-cv/
